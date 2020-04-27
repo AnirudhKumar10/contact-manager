@@ -1,4 +1,4 @@
-# Use this project
+# How to use the project
 
 ### npm install
 
