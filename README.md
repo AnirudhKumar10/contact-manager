@@ -1,5 +1,7 @@
 # How to use the project
 
+This is built using react.js
+
 ### npm install
 
 This will install all the packages. 
